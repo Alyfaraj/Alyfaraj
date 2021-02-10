@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/alyfaraj"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://img.flaticon.com/icons/png/512/1803/1803671.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" align="right" width="25%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, React-Native.
 
@@ -18,6 +18,6 @@ I'm a software developer who is passionate about creating technology to elevate 
    - Mobile Shop App ([Android version](https://play.google.com/store/apps/details?id=com.rabtmobileshop), [iOS version](https://apps.apple.com/app/apple-store/id1546770443))
    - Charge App ([Android version](https://play.google.com/store/apps/details?id=com.rabtcharge), [iOS version](https://apps.apple.com/app/apple-store/id1542962160))
    - Garage App ([Android version](https://play.google.com/store/apps/details?id=com.rabtgarage), [iOS version](https://apps.apple.com/app/apple-store/id1535385757))
-   - Maleka App ([Android version](https://play.google.com/store/apps/details?id=com.maleka), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
+   - Maleka App ([Android version](https://play.google.com/store/apps/details?id=com.maleka), [iOS version](https://apps.apple.com/app/apple-store/id1537734107))
     - Keve App ([Android version](https://play.google.com/store/apps/details?id=com.keve), [iOS version](https://apps.apple.com/app/apple-store/id1522846596))
 - 💬 Ask me about **React Native**
