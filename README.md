@@ -8,9 +8,9 @@
   
   <img src="https://www.codemade.io/wp-content/uploads/2018/04/hire-angularjs-developers-offshore-angularjs-programmers-152343160384kng.png" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript and React-Native.
+I'm a software developer who is passionate about creating technology to elevate people . Some technologies I enjoy working with include Javascript and React-Native.
 
-- 🔭 I'm a software developer [@rabt](https://www.rabt.tech) in Cairo, Egypt
+- 🔭 I'm a mobile application developer [@rabt](https://www.rabt.tech) in Cairo, Egypt
 - 🔍 I have 9 live apps: 
   - Enqzni App ([Android version](https://play.google.com/store/apps/details?id=com.rabthelpme) )
    - Hartna App ([Android version](https://play.google.com/store/apps/details?id=com.haretnaa), [iOS version](https://apps.apple.com/app/apple-store/id1547825881))
