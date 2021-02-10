@@ -8,7 +8,7 @@
   
   <img src="https://img.flaticon.com/icons/png/512/1803/1803671.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, React-Native.
+I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript and React-Native.
 
 - 🔭 I'm a software developer [@rabt](https://www.rabt.tech) in Cairo, Egypt
 - 🔍 I have 8 live apps: 
