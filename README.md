@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/alyfaraj"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://img.flaticon.com/icons/png/512/1803/1803671.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" align="right" width="25%"/>
+  <img src="https://www.vippng.com/png/full/109-1091283_the-startup-with-team-businessman-in-office-clip.png" align="right" width="25%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript and React-Native.
 
