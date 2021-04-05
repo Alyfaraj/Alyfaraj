@@ -14,7 +14,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 -  🔭 Former mobile application developer at [@rabt](https://www.rabt.tech) in Cairo, Egypt 
 - 🔍 I have 9 live apps: 
   - Enqzni App ([Android version](https://play.google.com/store/apps/details?id=com.rabthelpme) )
-   - Hartna App ([Android version](https://play.google.com/store/apps/details?id=com.haretnaa), [iOS version](https://apps.apple.com/app/apple-store/id1547825881))
+   - Hartna App ([Android version](https://play.google.com/store/apps/details?id=com.haretnaa), [iOS version](https://apps.apple.com/app/apple-store/id1547825881#?platform=iphone))
    - Bekala Shop App ([Android version](https://play.google.com/store/apps/details?id=com.rabtbekalashop), [iOS version](https://apps.apple.com/app/apple-store/id1546895933))
    - Mobile Shop App ([Android version](https://play.google.com/store/apps/details?id=com.rabtmobileshop), [iOS version](https://apps.apple.com/app/apple-store/id1546770443))
    - Charge App ([Android version](https://play.google.com/store/apps/details?id=com.rabtcharge), [iOS version](https://apps.apple.com/app/apple-store/id1542962160))
