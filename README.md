@@ -10,7 +10,8 @@
 
 I'm a software developer who is passionate about creating technology to elevate people . Some technologies I enjoy working with include Javascript and React-Native.
 
-- 🔭 I'm a mobile application developer at [@fudex](https://fudex.com.sa) & [@rabt](https://www.rabt.tech) in Cairo, Egypt
+- 🔭 I'm a mobile application developer at [@fudex](https://fudex.com.sa) in Cairo, Egypt
+-    Former mobile application developer at [@rabt](https://www.rabt.tech) in Cairo, Egypt 
 - 🔍 I have 9 live apps: 
   - Enqzni App ([Android version](https://play.google.com/store/apps/details?id=com.rabthelpme) )
    - Hartna App ([Android version](https://play.google.com/store/apps/details?id=com.haretnaa), [iOS version](https://apps.apple.com/app/apple-store/id1547825881))
