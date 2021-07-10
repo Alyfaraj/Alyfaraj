@@ -12,7 +12,9 @@ I'm a software developer who is passionate about creating technology to elevate 
 
 - 🔭 I'm a mobile application developer at [@fudex](https://fudex.com.sa) in Cairo, Egypt
 -  🔭 Former mobile application developer at [@rabt](https://www.rabt.tech) in Cairo, Egypt 
-- 🔍 I have 10 live apps: 
+- 🔍 I have 12 live apps: 
+- Khuzanti App ([Android version](https://play.google.com/store/apps/details?id=com.rabtKhuzanati), [iOS version](https://apps.apple.com/us/app/id1575297667))
+ - Bedaa App ([Android version](https://play.google.com/store/apps/details?id=com.rabtBedaa) )
   - Enqzni App ([Android version](https://play.google.com/store/apps/details?id=com.rabthelpme) )
    - Hartna App ([Android version](https://play.google.com/store/apps/details?id=com.haretnaa), [iOS version](https://apps.apple.com/app/apple-store/id1547825881#?platform=iphone))
    - Bekala Shop App ([Android version](https://play.google.com/store/apps/details?id=com.rabtbekalashop), [iOS version](https://apps.apple.com/app/apple-store/id1546895933))
