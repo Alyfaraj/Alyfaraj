@@ -10,7 +10,6 @@
 
 I'm a software developer who is passionate about creating technology to elevate people . Some technologies I enjoy working with include Javascript,Typescript,Graphql and React-Native.
 - 🔭 I'm a mobile application developer at [@Technic](https://technic-eg.com) in Cairo, Egypt
-- 🔭  Former mobile application developer at [@fudex](https://fudex.com.sa) in Cairo, Egypt
 -  🔭 Former mobile application developer at [@rabt](https://www.rabt.tech) in Cairo, Egypt 
 - 🔍 I have 13 live apps: 
 - Eyadatak App ([ios version](https://apps.apple.com/eg/app/eyadatak-عيادتك/id1606927493))
