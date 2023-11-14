@@ -9,7 +9,8 @@
   <img src="https://www.codemade.io/wp-content/uploads/2018/04/hire-angularjs-developers-offshore-angularjs-programmers-152343160384kng.png" align="right" width="25%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people . Some technologies I enjoy working with include Javascript,Typescript,Graphql and React-Native.
-- 🔭 I'm a mobile application developer at [@Teeela](https://www.teeela.com/enl/) in Cairo, Egypt
+- 🔭 I'm a mobile application developer at [@CCIT](https://www.ccit.sa/) in Saudi Arabia
+- 🔭 Former mobile application developer at [@Teeela](https://www.teeela.com/enl/) in Cairo, Egypt
 - 🔭 Former mobile application developer at [@Technic](https://technic-eg.com) in Cairo, Egypt
 -  🔭 Former mobile application developer at [@rabt](https://www.rabt.tech) in Cairo, Egypt 
 - 🔍 I have 16 live app :
